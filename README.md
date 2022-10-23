@@ -1,6 +1,6 @@
 
 - 💻 Estudando Desenvolvimento de Sistemas - Etec
-- 💿 Ainda aprendendo
+- 💿 Não possuo muita expêriencia
 - 🎨 Tenho 15 anos
 - 🔒 Pretendo continuar na área de tecnologia após o ensino médio
  
