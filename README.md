@@ -1,6 +1,6 @@
 
 - 💻 Estudando Desenvolvimento de Sistemas - Etec
-- 💿 Minha área de maior domínio é Front-End
+- 💿 Ainda aprendendo
 - 🎨 Tenho 15 anos
 - 🔒 Pretendo continuar na área de tecnologia após o ensino médio
  
