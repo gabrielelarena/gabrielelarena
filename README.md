@@ -1,4 +1,3 @@
-### Oi eu sou a Gabi :) 👋
 
 - 💻 Estudando Desenvolvimento de Sistemas - Etec
 - 💿 Minha área de maior domínio é Front-End
