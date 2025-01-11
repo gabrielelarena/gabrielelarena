@@ -1,9 +1,6 @@
-## Hi there 👋
+## Olá!
 
-<!--
-**gabrielelarena/gabrielelarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
