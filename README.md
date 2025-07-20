@@ -1,4 +1,11 @@
-## Olá!
+## Olá, meu nome é Gabriele!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+Tenho Técnico em Desenvolvimento de Sistemas e atualmente curso Graduação em Ciência da Computação. Gosto muito da área de tecnologia e por esse motivo estou sempre em busca de atualização e aprimoramento por meio de cursos e novas experiências.
+
+Linguagens e Frameworks que já tive contato:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,py)](https://skillicons.dev)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
