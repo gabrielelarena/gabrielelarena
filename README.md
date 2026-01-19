@@ -4,4 +4,4 @@ Tenho Técnico em Desenvolvimento de Sistemas e atualmente curso Graduação em 
 
 Linguagens e Frameworks que já tive contato:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,py,typescript)](https://skillicons.dev)
